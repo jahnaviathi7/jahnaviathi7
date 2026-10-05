@@ -1,199 +1,177 @@
-<!-- ========================= HEADER ========================= -->
+<!-- ========================================================= -->
+<!--                    HEADER / INTRO                         -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=Athi%20Jahnavi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=200&section=header&text=Athi%20Jahnavi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Aspiring+Web+Developer;Aspiring+Software+Developer;Python+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Real-World+Projects"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&color=6C63FF&center=true&vCenter=true&width=800&lines=Aspiring+Web+Developer;Aspiring+Software+Developer;Python+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Real-World+Applications"/>
 
-<br>
+<br><br>
 
 <a href="https://github.com/jahnaviathi7">
-<img src="https://img.shields.io/badge/GitHub-jahnaviathi7-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-jahnaviathi7-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/jahnavi-athi-a0a0063a0">
-<img src="https://img.shields.io/badge/LinkedIn-Athi%20Jahnavi-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:jahnaviathi7@gmail.com">
-<img src="https://img.shields.io/badge/Email-jahnaviathi7-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/LinkedIn-Athi%20Jahnavi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://jahnaviathi7.github.io/my-portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=googlechrome"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
+
+<a href="mailto:jahnaviathi7@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=jahnaviathi7&label=PROFILE%20VIEWS&color=6C63FF&style=for-the-badge"/>
 
 </div>
 
-<br>
-
 ---
 
-# 👋 Hello, I'm Athi Jahnavi!
+# 👋 About Me
 
-### 💻 Aspiring Web Developer | Software Developer | AI/ML Enthusiast
+```text
+╭────────────────────────────────────────────────────────────╮
+│                                                            │
+│  👩‍💻  ATHI JAHNAVI                                         │
+│                                                            │
+│  🎓  B.Tech — Computer Science & Information Technology    │
+│      Vemu Institute of Technology                           │
+│                                                            │
+│  💻  Aspiring Web Developer & Software Developer           │
+│                                                            │
+│  🐍  Python | Java | SQL                                   │
+│                                                            │
+│  🌐  HTML | CSS | JavaScript                               │
+│                                                            │
+│  🤖  AI | Machine Learning | NLP                           │
+│                                                            │
+│  🚀  Building practical and real-world applications        │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
 
-I am a final-year **B.Tech Computer Science & Information Technology** student at **Vemu Institute of Technology**, passionate about building practical software applications and continuously improving my development skills.
+I am a final-year B.Tech Computer Science & Information Technology student passionate about Web Development, Software Development, Python, Artificial Intelligence and Machine Learning.
 
-I am particularly interested in **Web Development, Software Development, Python, Java, Artificial Intelligence and Machine Learning**.
+I enjoy learning new technologies, building practical projects and improving my programming and problem-solving skills.
 
----
-
-# 👩‍💻 About Me
-
-```python
-class AthiJahnavi:
-
-    name = "Athi Jahnavi"
-    education = "B.Tech - Computer Science & Information Technology"
-    college = "Vemu Institute of Technology"
-
-    role = [
-        "Aspiring Web Developer",
-        "Aspiring Software Developer",
-        "AI/ML Enthusiast"
-    ]
-
-    programming = [
-        "Python",
-        "Java",
-        "SQL"
-    ]
-
-    web_development = [
-        "HTML",
-        "CSS",
-        "JavaScript"
-    ]
-
-    interests = [
-        "Web Development",
-        "Software Development",
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Problem Solving"
-    ]
-
-    currently_learning = [
-        "Python Programming",
-        "Java",
-        "Web Development",
-        "Data Structures & Algorithms",
-        "Software Development"
-    ]
-
-    goal = "Build real-world software and grow as a developer"
-🚀 What I Work On
-🌐 Web Development
-HTML
-CSS
-JavaScript
-Responsive Web Development
-Frontend Development
-💻 Software Development
-Python Programming
-Java Programming
-SQL
-Problem Solving
-Application Development
-🤖 AI & Machine Learning
-Machine Learning
-Random Forest
-Natural Language Processing
-TensorFlow
-AI-powered applications
-🛠️ Development Tools
-Git
-GitHub
-VS Code
-Streamlit
-FastAPI
-🌟 Featured Projects
+🎯 What I Work On
+🌐 Web Development — HTML, CSS, JavaScript and responsive web applications
+💻 Software Development — Python, Java, SQL and application development
+🤖 Machine Learning — classification, prediction, model development and evaluation
+🧠 Artificial Intelligence — AI-powered applications, NLP and intelligent assistants
+🐍 Python Development — building and experimenting with practical software and AI applications
+🏆 Featured Projects
+<table> <tr> <td width="50%" valign="top">
 🏥 AI Health Assistant
+Artificial Intelligence • Machine Learning • Healthcare
 
-An AI-powered health assistant that uses Machine Learning to analyze symptoms and predict possible diseases.
+Built an AI-powered health assistant that analyzes user symptoms and predicts possible diseases using Machine Learning.
 
-🔹 Features
-Disease prediction
-Confidence score
-Medicine and care suggestions
-Emergency detection
-AI-powered explanations
-NLP-based interaction
-🔧 Technologies
+Highlights
+🧠 Disease prediction
+📊 Confidence score
+💊 Medicine and care suggestions
+🚨 Emergency detection
+💬 AI-powered explanations
+📝 NLP-based interaction
+🤖 Gemini AI integration
+Technologies
 
 Python Machine Learning Random Forest NLP Gemini AI
 
-<br> <a href="https://github.com/jahnaviathi7"> <img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github"/> </a>
+<br>
+
+🔗 Portfolio:
+https://jahnaviathi7.github.io/my-portfolio/
+
+</td> <td width="50%" valign="top">
 🌱 Smart Agriculture AI
+Artificial Intelligence • Machine Learning • Agriculture
 
-An AI-powered agriculture platform that provides intelligent recommendations and tools to support farmers.
+Built an AI-powered agriculture platform providing intelligent recommendations and tools for farmers.
 
-🔹 Features
+Highlights
 🌾 Crop recommendation
 🦠 Plant disease detection
 💧 Irrigation prediction
 🌱 Fertilizer recommendation
 🌦️ Weather information
 🤖 Agriculture AI chatbot
-🔧 Technologies
+📊 ML-based recommendations
+Technologies
 
 Python TensorFlow Machine Learning Streamlit AI
 
-<br> <a href="https://github.com/jahnaviathi7/Smart-Agriculture-AI"> <img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github"/> </a>
+<br>
+
+🔗 View Repository
+
+https://github.com/jahnaviathi7/Smart-Agriculture-AI
+
+</td> </tr> </table>
 🛠️ Technology Stack
-💻 Programming Languages
-<p> <img src="https://skillicons.dev/icons?i=python,java,mysql"/> </p>
+🐍 Programming & Data
+<div align="center"> <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> </div>
 🌐 Web Development
-<p> <img src="https://skillicons.dev/icons?i=html,css,js"/> </p>
-🤖 AI / Machine Learning
-<p> <img src="https://skillicons.dev/icons?i=tensorflow"/> </p>
-
-Machine Learning NLP Random Forest AI
-
-🔧 Tools & Platforms
-<p> <img src="https://skillicons.dev/icons?i=git,github,vscode"/> </p>
-
-Streamlit FastAPI
-
+<div align="center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> </div>
+🧠 Machine Learning & AI
+<div align="center"> <img src="https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/NLP-6C63FF?style=for-the-badge"/> <img src="https://img.shields.io/badge/RANDOM%20FOREST-228B22?style=for-the-badge"/> </div>
+🤖 Generative AI
+<div align="center"> <img src="https://img.shields.io/badge/GEMINI_AI-8E75B2?style=for-the-badge&logo=google&logoColor=white"/> <img src="https://img.shields.io/badge/AI_APPLICATIONS-6C63FF?style=for-the-badge"/> <img src="https://img.shields.io/badge/NLP-4B0082?style=for-the-badge"/> </div>
+🧰 Tools & Platforms
+<div align="center"> <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/STREAMLIT-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> </div>
 🎓 Education
+<div align="center">
 🏫 Vemu Institute of Technology
 
 B.Tech — Computer Science & Information Technology
 
-📍 Andhra Pradesh, India
-
 🎓 Final Year
 
+📍 Andhra Pradesh, India
+
+</div>
 📜 Certifications
-🏆 Oracle Certified Foundations Associate – Agentic AI
+<div align="center">
+🏆 Oracle
+<img src="https://img.shields.io/badge/ORACLE-AGENTIC%20AI-EE0000?style=for-the-badge&logo=oracle&logoColor=white"/>
+
+Oracle Certified Foundations Associate – Agentic AI
 
 Oracle University
 
 Issued: August 2026
 
-⚛️ Quantum Fundamentals – 2025–2026
+<br><br>
+
+⚛️ Quantum Fundamentals
+<img src="https://img.shields.io/badge/QUANTUM%20FUNDAMENTALS-2025--2026-6C63FF?style=for-the-badge"/>
 
 Amaravati Quantum Valley
 
-4-week Quantum Fundamentals Program
+4-Week Quantum Fundamentals Program
 
-☁️ ServiceNow Virtual Internship Program
+<br><br>
 
-Completed learning modules including:
+☁️ ServiceNow
+<img src="https://img.shields.io/badge/SERVICENOW-VIRTUAL%20INTERNSHIP-00A1E0?style=for-the-badge&logo=servicenow&logoColor=white"/>
 
-Welcome to ServiceNow Micro Certification
-Introduction to Agentic AI
-ServiceNow Administration Fundamentals
-Introduction to Flows
-Automated Test Framework Essentials
-Get Started with Reports
-Certified System Administrator Exam Preparation
+ServiceNow Virtual Internship Program
+
+Agentic AI • Administration • Flows • ATF • Reports • CSA Preparation
 
 Issued: May 2026
 
-📊 NASSCOM – Acquiring Data
+<br><br>
+
+📊 NASSCOM
+<img src="https://img.shields.io/badge/NASSCOM-ACQUIRING%20DATA-0072CE?style=for-the-badge"/>
 
 Gold Category
 
@@ -201,15 +179,16 @@ Assessment Score: 84%
 
 Issued: July 2026
 
+</div>
 🏆 Highlights
-🎓 Final-year B.Tech CSIT Student
-💻 Aspiring Web Developer
-💻 Aspiring Software Developer
-🐍 Python Developer
-🤖 AI/ML Enthusiast
-🌐 Web Development Learner
-🚀 Building Real-World Projects
-📚 Continuous Learner
+🎓 Final-year B.Tech Computer Science & Information Technology student
+🌐 Building skills in Web Development
+💻 Preparing for Software Development roles
+🐍 Strengthening Python and programming logic
+🤖 Building projects using AI and Machine Learning
+🚀 Developed AI Health Assistant
+🌱 Developed Smart Agriculture AI
+📚 Continuously learning new technologies and development practices
 📊 GitHub Analytics
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jahnaviathi7&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
@@ -218,60 +197,36 @@ Issued: July 2026
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahnaviathi7&layout=compact&theme=tokyonight&hide_border=true"/> </div>
 🔥 GitHub Contribution Streak
 <div align="center"> <img src="https://streak-stats.demolab.com?user=jahnaviathi7&theme=tokyonight&hide_border=true"/> </div>
-🐍 Contribution Graph
-<div align="center"> <img src="https://github.com/jahnaviathi7/jahnaviathi7/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/> </div>
+📈 Contribution Graph
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=jahnaviathi7&theme=tokyo-night&hide_border=true&area=true"/> </div>
 🎯 Current Focus
-┌──────────────────────────────────────────────────────┐
-│                                                      │
-│  🌐  Improving Web Development                      │
-│                                                      │
-│  🐍  Strengthening Python Programming                │
-│                                                      │
-│  ☕  Learning Java                                   │
-│                                                      │
-│  🗄️  Improving SQL & Database Skills                │
-│                                                      │
-│  🧠  Practicing Data Structures & Algorithms         │
-│                                                      │
-│  💻  Building Software Development Projects          │
-│                                                      │
-│  🤖  Exploring AI & Machine Learning Applications    │
-│                                                      │
-└──────────────────────────────────────────────────────┘
-🌱 My Learning Journey
-HTML / CSS
-     ↓
-JavaScript
-     ↓
-Python & Java
-     ↓
-SQL & Databases
-     ↓
-Web Development
-     ↓
-Software Development
-     ↓
-AI & Machine Learning
-     ↓
-Real-World Applications
-🌐 My Portfolio
-<div align="center"> <a href="https://jahnaviathi7.github.io/my-portfolio/"> <img src="https://img.shields.io/badge/🌐_VISIT_MY_PORTFOLIO-6C63FF?style=for-the-badge"/> </a>
+<div align="center">
+🌐 Web Development	💻 Software Development	🤖 AI / ML
+HTML	Python	Machine Learning
+CSS	Java	NLP
+JavaScript	SQL	AI Applications
+Responsive Design	DSA	TensorFlow
+</div>
+📚 Currently Learning
+<div align="center"> <img src="https://img.shields.io/badge/PYTHON-Programming-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/JAVA-Programming-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/HTML%20%26%20CSS-Web%20Development-E34F26?style=for-the-badge"/> <img src="https://img.shields.io/badge/JAVASCRIPT-Web%20Development-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/SQL-Database-4479A1?style=for-the-badge"/> <img src="https://img.shields.io/badge/DSA-Problem%20Solving-6C63FF?style=for-the-badge"/> </div>
+💼 Career Goal
+<div align="center">
+🌐 Web Developer
+💻 Software Developer
+🐍 Python Developer
+🤖 AI / ML Developer
+<br>
 
-<br><br>
-
-Explore my projects, skills, resume and development journey.
+My goal is to build useful real-world software and grow as a professional developer.
 
 </div>
+🌐 My Portfolio
+<div align="center"> <a href="https://jahnaviathi7.github.io/my-portfolio/"> <img src="https://img.shields.io/badge/🚀%20VISIT%20MY%20PORTFOLIO-6C63FF?style=for-the-badge"/> </a> </div>
 📫 Let's Connect
-<div align="center"> <a href="https://github.com/jahnaviathi7"> <img src="https://img.shields.io/badge/GitHub-jahnaviathi7-181717?style=for-the-badge&logo=github"/> </a> <a href="https://www.linkedin.com/in/jahnavi-athi-a0a0063a0"> <img src="https://img.shields.io/badge/LinkedIn-Athi%20Jahnavi-0A66C2?style=for-the-badge&logo=linkedin"/> </a> <a href="mailto:jahnaviathi7@gmail.com"> <img src="https://img.shields.io/badge/Gmail-jahnaviathi7@gmail.com-EA4335?style=for-the-badge&logo=gmail"/> </a> <a href="https://jahnaviathi7.github.io/my-portfolio/"> <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/> </a> </div>
+<div align="center"> <a href="https://github.com/jahnaviathi7"> <img src="https://img.shields.io/badge/GITHUB-jahnaviathi7-181717?style=for-the-badge&logo=github"/> </a> <a href="https://www.linkedin.com/in/jahnavi-athi-a0a0063a0"> <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin"/> </a> <a href="mailto:jahnaviathi7@gmail.com"> <img src="https://img.shields.io/badge/GMAIL-jahnaviathi7@gmail.com-EA4335?style=for-the-badge&logo=gmail"/> </a> <a href="https://jahnaviathi7.github.io/my-portfolio/"> <img src="https://img.shields.io/badge/PORTFOLIO-Visit-6C63FF?style=for-the-badge&logo=googlechrome"/> </a> </div>
 <div align="center">
-💜 "Learn. Build. Improve. Repeat."
-<br>
+💜 Learn • Build • Improve • Grow
 
 Thanks for visiting my GitHub profile!
 
-<br>
-
-⭐ Feel free to explore my repositories and projects.
-
-</div> <!-- ========================= FOOTER ========================= --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer"/> </div> ```
+<br> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=120&section=footer"/> </div> ```
